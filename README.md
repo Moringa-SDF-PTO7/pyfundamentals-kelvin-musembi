@@ -135,7 +135,7 @@ This code challenge demonstrates basic Python programming concepts by implementi
 To test the functionality of all tasks, the code includes basic testing for each function in the `if __name__ == "__main__":` block. Simply run the script to see the output in the terminal.
 
 ```bash
-python main.py
+python app.py
 ```
 
 ## License
